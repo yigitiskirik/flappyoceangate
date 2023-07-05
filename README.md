@@ -27,5 +27,5 @@ but we learn from our mistakes and humanity just went a step forward with this t
 + To exit press *Escape*
 
   
-  > Tip: charge your before playing controller
+  > Tip: charge your controller before playing 
 
