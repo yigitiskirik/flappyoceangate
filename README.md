@@ -14,9 +14,9 @@ but we learn from our mistakes and humanity just went a step forward with this t
 + Start Flappy Oceangate.exe
 + Enjoy playing ✨
 
-### Linux and MacOs
+### Linux and macOS
 + Export flappyoceangate.zip file
-+ Download löve2d
++ Download [löve2d](https://love2d.org)
 + Start Flappy Oceangate.love with löve2d
 + Enjoy playing ✨
 
